@@ -44,3 +44,7 @@ html {
 .c-links {
     text-decoration: none;
 }
+
+.c-fs {
+    font-size: small;
+}
