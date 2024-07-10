@@ -1,0 +1,46 @@
+html {
+    background-color: #3b3b3b;
+}
+.caro-div {
+    height: 480px;
+}
+
+.caro-img {
+    object-fit: cover;
+    height: 100%;
+    filter: brightness(0.5);
+}
+
+.overview {
+    height: 100px;
+    background-color: #3b3b3b;
+    border-bottom: solid #fcb00b;
+}
+
+.c-color {
+    color: #fcb00b;
+    
+}
+
+.c-aboutImg {
+    background-image: url(./img/about_img.jpg);
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    width: 95%;
+    height: 350px;
+    border-radius: 35px;
+}
+
+.c-bg {
+    background-color: #3b3b3b;
+}
+
+.pro-img {
+    object-fit: cover;
+    height: 250px;
+}
+
+.c-links {
+    text-decoration: none;
+}
