@@ -43,6 +43,10 @@ html {
 
 .c-links {
     text-decoration: none;
+    color: #000;
+}
+.c-links:hover {
+    color: #302e2e;
 }
 
 .c-fs {
